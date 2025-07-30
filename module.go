@@ -1,7 +1,7 @@
-package main
+package module
 
 import "fmt"
 
-func main(){
+func sayHello(){
 	fmt.Println("Hello by dependency...")
 }
